@@ -1,4 +1,5 @@
 # chemical_shop
+![screenslook](https://github.com/andreyzibrov/home_chemical_eshop/assets/159270137/1a4702be-a60e-49e7-9c84-88f997ade1a9)
 
 A new Flutter project.
 
